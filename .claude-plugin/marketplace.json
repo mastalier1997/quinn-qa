@@ -1,0 +1,19 @@
+{
+  "name": "quinn-qa",
+  "description": "Marketplace for the Quinn QA plugin — autonomous visual testing with auto-repair.",
+  "owner": {
+    "name": "Jan Mastalier",
+    "email": "jan.mastalier@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "quinn-qa",
+      "source": "./",
+      "description": "Autonomous visual QA with auto-repair: Quinn drives your app in a real browser, finds bugs, Claude fixes them, and Quinn re-tests until everything passes.",
+      "category": "testing",
+      "tags": ["qa", "testing", "visual-testing", "e2e", "playwright", "browser", "auto-repair"],
+      "license": "MIT",
+      "repository": "https://github.com/mastalier1997/quinn-qa"
+    }
+  ]
+}

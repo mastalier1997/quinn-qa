@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "quinn-qa",
+  "displayName": "Quinn QA",
+  "version": "0.1.0",
+  "description": "Autonomous visual QA with auto-repair: Quinn drives your app in a real browser, finds bugs, Claude fixes them, and Quinn re-tests until everything passes.",
+  "author": {
+    "name": "Jan Mastalier",
+    "email": "jan.mastalier@gmail.com",
+    "url": "https://github.com/mastalier1997"
+  },
+  "homepage": "https://github.com/mastalier1997/quinn-qa#readme",
+  "repository": "https://github.com/mastalier1997/quinn-qa",
+  "license": "MIT",
+  "keywords": [
+    "qa",
+    "testing",
+    "visual-testing",
+    "e2e",
+    "playwright",
+    "browser",
+    "auto-repair"
+  ]
+}
